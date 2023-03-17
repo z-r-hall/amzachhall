@@ -8,7 +8,7 @@ function Nav() {
         <em>Zach Hall</em>
       </h3>
       <div className='nav-links'>
-        <Link className='link' to='/home'>
+        <Link className='link' to='/'>
           Home
         </Link>
         <Link className='link' to='/projects'>
