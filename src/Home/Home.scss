@@ -1,3 +1,9 @@
 .home-page {
   margin-top: 2.5rem;
 }
+
+@media (max-width: 390px) {
+  .home-page {
+    margin: 1rem;
+  }
+}

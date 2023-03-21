@@ -10,3 +10,9 @@
     font-weight: bolder;
   }
 }
+
+@media (max-width: 390px) {
+  .projects {
+    margin: 1rem;
+  }
+}

@@ -3,10 +3,10 @@ import './Projects.scss';
 function Projects() {
   return (
     <div className='projects'>
-      <p>
+      <div>
         Please feel free to check out my GitHub and connect with me on LinkedIn
         while I revamp this page!
-      </p>
+      </div>
       <br />
       <br />
       <a href='https://github.com/z-r-hall'>GitHub</a>
