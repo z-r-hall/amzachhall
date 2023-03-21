@@ -30,3 +30,21 @@
     font-weight: bolder;
   }
 }
+
+@media(max-width: 390px) {
+  .nav-bar {
+
+    h3 {
+      margin: 0;
+    }
+  
+    .nav-links {
+      margin-right: 1rem;
+    }
+  
+    .link {
+      padding: .5rem;
+      font-size: medium;
+    }
+  }
+}
